@@ -1,0 +1,90 @@
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.Cadastro.resources
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.Form1.resources
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.Jogo.resources
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.exe
+C:\Users\Luan\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.pdb
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe.config
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.exe
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.pdb
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.pdb
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMConf_jogo.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMCadastro.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMPrincipal.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMJogo.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMRanking.resources
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe.config
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.exe
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.pdb
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMCadastro.resources
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMConf_jogo.resources
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMPrincipal.resources
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMJogo.resources
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMRanking.resources
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.pdb
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMCarregamento.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMBuscJogador.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe.config
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.exe
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.pdb
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.pdb
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMBuscJogador.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMCadastro.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMCarregamento.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMConf_jogo.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMPrincipal.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMJogo.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMRanking.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+G:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe.config
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.exe
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.pdb
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.pdb
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMBuscJogador.resources
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMCadastro.resources
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMCarregamento.resources
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMConf_jogo.resources
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMPrincipal.resources
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMJogo.resources
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMRanking.resources
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+F:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe.config
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.exe
+I:\Unifenas\4º Periodo\Linguagens e Tecnicas de Programação II\Jogo\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.exe
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.pdb
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.exe
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMBuscJogador.resources
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMCadastro.resources
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMCarregamento.resources
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMConf_jogo.resources
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMPrincipal.resources
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMJogo.resources
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.FRMRanking.resources
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\Samuel Soares\Desktop\Jogo_da_Matematica\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Samuel Soares\Desktop\Matemática\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\Samuel Soares\Desktop\Matemática\Jogo\obj\Debug\Jogo.exe
+C:\Users\Samuel Soares\Desktop\Matemática\Jogo\obj\Debug\Jogo.pdb
